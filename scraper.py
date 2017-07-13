@@ -4,7 +4,7 @@
 ###############################################################################
 
 import scraperwiki
-html = scraperwiki.scrape('https://scraperwiki.com')
+html = scraperwiki.scrape('http://www.bbc.com/')
 print "Click on the ...more link to see the whole page"
 print html
 
